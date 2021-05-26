@@ -1,3 +1,16 @@
+tellopy from github
+```
+$ git clone https://github.com/hanyazou/TelloPy 
+$ cd TelloPy
+$ python setup.py bdist_wheel
+$ pip install dist/tellopy-*.dev*.whl --upgrade
+```
+
+
+
+BELOW ARE THE ORIGINAL REPOSITORY
+------------------------------------------------------------------------------------
+
 # tello_driver [![Build Status](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/badge/icon)](http://build.ros.org/job/Ksrc_uX__tello_driver__ubuntu_xenial__source/)
 
 # 1. Overview
